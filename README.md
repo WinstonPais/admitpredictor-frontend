@@ -1,3 +1,6 @@
+![CI/CD](https://github.com/winstonpais/admitpredictor-frontend/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/winstonpais/admitpredictor-frontend/branch/master/graph/badge.svg)](https://codecov.io/gh/winstonpais/admitpredictor-frontend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
