@@ -1,4 +1,4 @@
-![CI/CD](https://github.com/winstonpais/admitpredictor-frontend/workflows/React CI/CD/badge.svg)
+![CI/CD](https://github.com/winstonpais/admitpredictor-frontend/workflows/React%20CI/CD/badge.svg)
 [![codecov](https://codecov.io/gh/winstonpais/admitpredictor-frontend/branch/master/graph/badge.svg)](https://codecov.io/gh/winstonpais/admitpredictor-frontend)
 
 # Getting Started with Create React App
