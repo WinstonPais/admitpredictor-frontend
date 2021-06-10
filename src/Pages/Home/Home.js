@@ -1,4 +1,5 @@
 import React from 'react';
+import CircularLoader from './../../components/CircularLoader/CircularLoader'
 // import Footer from './../../footer/footer';
 // import classes from './Home.module.css';
 // import HomeCarousel from './../../homecarousel/homecarousel';
@@ -8,7 +9,7 @@ import React from 'react';
 
 const Home = () => {
     return (
-        <div>Hello World MF</div>
+        <CircularLoader/>
         // <Fragment>
         //     <HomeCarousel/>
         //     <div className={classes.makePositionRelative}>
@@ -20,6 +21,7 @@ const Home = () => {
         //     <Footer />
         //     </div>
         // </Fragment>
+
     )
 }
 
