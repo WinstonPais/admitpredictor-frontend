@@ -1,0 +1,27 @@
+.loader{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    text-align: center;
+}
+
+@keyframes bounce{
+    from { transform: translate3d(0, 0, 0);}
+    to { transform: translate3d(0, 40px, 0);}
+}
+
+.imag{
+    animation: bounce 0.5s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+
+.caption{
+    font-family: Georgia;
+    font-size: 25px;
+    margin: 0px;
+}  
+
+
