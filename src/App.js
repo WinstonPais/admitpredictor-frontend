@@ -11,13 +11,11 @@ class App extends Component {
     return (
         <>
         <Router history={history}>
-            <Switch >
+            <Switch>
               <Route path="/admitpredictor-frontend" render={() => <GradHatLoader pageComponent={<Home/>}/>} exact />
             </Switch>
         </Router>
         </>
-       
-    // </UserProvider>
     )
   }
 }
