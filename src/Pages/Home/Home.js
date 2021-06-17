@@ -1,5 +1,7 @@
 import React from 'react';
-import Loader from './../../components/Loader/Loader';
+import TopElement from './TopElement/TopElement';
+import FeaturesSection from './FeaturesSection/FeaturesSection';
+import IndexFooter from './IndexFooter/IndexFooter';
 // import Footer from './../../footer/footer';
 // import classes from './Home.module.css';
 // import HomeCarousel from './../../homecarousel/homecarousel';
@@ -9,7 +11,11 @@ import Loader from './../../components/Loader/Loader';
 
 const Home = () => {
     return (
-        <Loader/>
+        <>
+            <TopElement/>
+            <FeaturesSection/>
+            <IndexFooter/>
+        </>
         // <Fragment>
         //     <HomeCarousel/>
         //     <div className={classes.makePositionRelative}>

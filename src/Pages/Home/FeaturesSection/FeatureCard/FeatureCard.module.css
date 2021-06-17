@@ -1,0 +1,70 @@
+.pb_featurev1,
+.pb_featurev2 {
+  margin-bottom: 30px;
+  /* circle with border */ 
+}
+.pb_featurev1 .pb_icon i,
+.pb_featurev2 .pb_icon i {
+    font-size: 70px; 
+}
+.pb_featurev1 .media-body,
+.pb_featurev2 .media-body {
+    font-family: "Crimson Text", Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: #868e96; 
+}
+.pb_featurev1 .media-body .heading,
+.pb_featurev2 .media-body .heading {
+    font-size: 20px;
+    font-family: "Montserrat", Arial, sans-serif; 
+}
+.pb_featurev1.pb_feature-circle .pb_icon,
+.pb_featurev2.pb_feature-circle .pb_icon {
+    line-height: 0;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    border: 1px solid #dee2e6;
+    margin-bottom: 30px; 
+}
+.pb_featurev1.pb_feature-circle .pb_icon i,
+.pb_featurev2.pb_feature-circle .pb_icon i {
+    line-height: 0;
+    font-size: 45px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%); 
+}
+.pb_featurev1.pb_feature-circle.pb_feature-colored .pb_icon,
+.pb_featurev2.pb_feature-circle.pb_feature-colored .pb_icon {
+    border: none;
+    background: #1d82ff; 
+}
+.pb_featurev1.pb_feature-circle.pb_feature-colored .pb_icon i,
+.pb_featurev2.pb_feature-circle.pb_feature-colored .pb_icon i {
+    color: #fff; 
+}
+
+.pb_featurev1 .pb_icon i,
+  .pb_featurev2 .pb_icon i {
+    font-size: 70px; 
+}
+
+.pb_icongradient:before {
+    background: #665fee;
+    /* Old browsers */
+    background: -moz-linear-gradient(45deg, #665fee 0%, #27c2de 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #665fee 0%, #27c2de 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: -o-linear-gradient(45deg, #665fee 0%, #27c2de 100%);
+    background: linear-gradient(45deg, #665fee 0%, #27c2de 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent; }
+  
