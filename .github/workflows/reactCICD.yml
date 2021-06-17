@@ -4,6 +4,8 @@
 name: React CI/CD
 
 on:
+  push:
+    branches: [ '*' ]
   pull_request:
     branches: [ master ]
 
@@ -36,3 +38,14 @@ jobs:
 
     - name: Build
       run: npm run build
+    
+    - name: Deploy
+      if: ${{ github.ref == 'refs/heads/master' }}
+      run: |
+        git config --global user.name ${{ secrets.USERNAME_GITHUB }}
+        git config --global user.email ${{ secrets.EMAIL_GITHUB }}
+        git remote set-url origin https://${github_token}@github.com/${repository}
+        npm run deploy
+      env:
+        github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
+        repository: ${{ github.repository }}
