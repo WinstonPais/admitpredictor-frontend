@@ -6,7 +6,7 @@ import TopBeginElement from './TopBeginElement';
 
 configure({ adapter: new Adapter() });
 
-describe('<FeatureSection/>', () => {
+describe('<TopBeginElement/>', () => {
      
     it('contains a link to FormPage', () => {
         const curEle = shallow(<TopBeginElement/>);
