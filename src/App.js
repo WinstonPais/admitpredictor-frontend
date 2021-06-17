@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 // import NavBar from './NavBar/NavBar';
 // import UserProvider from './contexts/UserProvider';
 import Home from './Pages/Home/Home';
+import Loader from './components/Loader/Loader';
 // import MakeRecipesPage from './MainPages/MakeRecipesPage/MakeRecipesPage';
 // import AllRecipesPage from './MainPages/AllRecipes/AllRecipes';
 // import PageNotFound from './MainPages/PageNotFound/PageNotFound';
@@ -28,7 +29,7 @@ class App extends Component {
         <Router history={history}>
             {/* <ScrollToTop /> */}
             <Switch >
-              <Route path="/admitpredictor-frontend" component={Home} exact />
+              <Route path="/admitpredictor-frontend" render={() => <Loader pageComponent={<Home/>}/>} exact />
               {/* <Route path="/itadakimasu/makerecipepage" component={MakeRecipesPage} exact />
               <Route path="/recipe/:id" component={RecipeDetailsPage} />
               <Route path="/allrecipes" component={AllRecipesPage} />

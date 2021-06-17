@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import CircularLoader from './CircularLoader/CircularLoader';
 
-const CircularLoader = () => {
+const Loader = (props) => {
     const [isLoading, didPageLoad] = useState(true);
 
     useEffect(() => {
@@ -12,11 +13,11 @@ const CircularLoader = () => {
     return (
         <>
         {isLoading 
-            ? <div>Hello</div> 
-            : <div>Actual Page</div> 
+            ? <CircularLoader/>
+            : props.pageComponent
         }
         </>
     )
 }
 
-export default CircularLoader
+export default Loader
