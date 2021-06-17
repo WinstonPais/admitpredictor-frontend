@@ -1,5 +1,6 @@
 import classes from './TopBeginElement.module.css';
 import { Button } from 'react-bootstrap';
+import { Link  } from 'react-router-dom'
 
 const TopBeginElement = () => {
     return (
@@ -12,8 +13,9 @@ const TopBeginElement = () => {
             <input type="password" class="form-control pb_height-50 reverse" name="password" placeholder="Password" required/>
             </div>
             <div className={classes.mar4}>
-                {/* <input type="submit" className="btn btn-lg btn-block pb_btn-pill btn-shadow-blue" value="Login"/> */}
-                <Button className={['btn btn-lg btn-block', classes.ButtonColor, classes.btnshadowblue].join(' ')}>Begin</Button>
+                <Link to="/admitpredictor-frontend/formpage">
+                    <Button className={['btn btn-lg btn-block', classes.ButtonColor, classes.btnshadowblue].join(' ')}>Begin</Button>
+                </Link>
             </div>
         </div>
     )
