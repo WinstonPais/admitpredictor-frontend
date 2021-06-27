@@ -3,7 +3,7 @@ import Home from './Pages/Home/Home';
 import GradHatLoader from './components/Loader/GradHatLoader';
 import FormPage from './Pages/FormPage/Formpage';
 import Contact from './Pages/Contact/Contact';
-import { Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 
 const history = createBrowserHistory();
