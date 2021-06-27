@@ -1,6 +1,9 @@
 import React, {useEffect } from 'react';
 import {Grid,FormGroup,FormControl,OutlinedInput,Button,makeStyles} from '@material-ui/core';
 import Navbar from '../../components/NavBar/NavBar';
+import axios from "axios";
+
+
 
 const useStyles = makeStyles({
     '@global':{
@@ -52,6 +55,17 @@ const Formpage = () => {
     const classes = useStyles();
 
     const inputFields = require('./inputFieldsData.json');
+
+    const fetchData = () => {
+        return axios.get('http://127.0.0.1:8000/tensorflow_neuralNetworks/?GREScore=337&TOEFLScore=118&UniversityRating=4&SOP=4.5&LOR=4.5&CGPA=9.65&Research=1')
+        .then((res) => {
+            console.log(res);
+        })
+        .catch((err) => {
+            console.error(err);
+        })
+    }
+
     return(
         <>
             <Navbar/>
@@ -66,7 +80,7 @@ const Formpage = () => {
                             )
                         })
                     }
-                    <Button className={classes.button} variant="contained" color="primary" >
+                    <Button className={classes.button} onClick={fetchData} variant="contained" color="primary" >
                         Submit
                     </Button>
                 </FormGroup>
