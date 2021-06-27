@@ -1,5 +1,6 @@
 import React, {useEffect } from 'react';
 import {Grid,FormGroup,FormControl,OutlinedInput,Button,makeStyles} from '@material-ui/core';
+import Navbar from '../../components/NavBar/NavBar';
 
 const useStyles = makeStyles({
     '@global':{
@@ -24,7 +25,7 @@ const useStyles = makeStyles({
         position:"absolute",
         left:"20%",
         right:"20%",
-        top:"10%",
+        top:"15%",
     },
     formcontrol: {
         marginLeft:'20%',
@@ -53,6 +54,7 @@ const Formpage = () => {
     const inputFields = require('./inputFieldsData.json');
     return(
         <>
+            <Navbar/>
             <Grid className={classes.grid} justify="center" alignItems="center" >
                 <FormGroup>
                     {

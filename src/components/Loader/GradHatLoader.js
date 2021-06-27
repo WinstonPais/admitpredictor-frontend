@@ -4,8 +4,9 @@ import classes from './GradHatLoader.module.css';
 
 const GradHatLoader = (props) => {
     const [isLoading, didPageLoad] = useState(true);
-
+    
     useEffect(() => {
+        document.body.style.backgroundColor = "white";
         setTimeout(() =>{
             didPageLoad(false);
         }, 1500)
