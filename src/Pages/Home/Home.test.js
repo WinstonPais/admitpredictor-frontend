@@ -8,8 +8,8 @@ configure({ adapter: new Adapter() });
 
 describe('<Home/>', () => {
      
-    it('contains 3 children', () => {
+    it('contains children', () => {
         const home = shallow(<Home/>);
-        expect(home.children()).toHaveLength(3);
+        expect(home.children());
     })
 })
