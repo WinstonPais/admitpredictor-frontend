@@ -7,10 +7,10 @@ const TopBeginElement = () => {
         <div className={classes.pb_form_v1}>
             <h2 className="mb-4 mt-0 text-center">Login</h2>
             <div className="form-group">
-            <input type="text" class="form-control pb_height-50 reverse" name="username" placeholder="Username" required/>
+                <input type="text" className="form-control pb_height-50 reverse" name="username" placeholder="Username" required/>
             </div>
             <div className="form-group">
-            <input type="password" class="form-control pb_height-50 reverse" name="password" placeholder="Password" required/>
+                <input type="password" className="form-control pb_height-50 reverse" name="password" placeholder="Password" required/>
             </div>
             <div className={classes.mar4}>
                 <Link to="/admitpredictor-frontend/formpage">

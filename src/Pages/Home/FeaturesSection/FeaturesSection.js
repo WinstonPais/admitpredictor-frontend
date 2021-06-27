@@ -15,7 +15,7 @@ const FeaturesSection = () => {
                 <div className="row">
                     {
                         featureDetails.map((feature) =>{
-                            return  <FeatureCard {...feature}/>
+                            return  <FeatureCard key={feature.name} {...feature}/>
                         })
                     }
                 </div>
