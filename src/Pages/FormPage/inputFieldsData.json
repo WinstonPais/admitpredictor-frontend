@@ -1,0 +1,43 @@
+[
+    {
+        "id" : "grescores",
+        "htmlFor" : "gre",
+        "placeholder" : "Gre Scores"
+    },
+    {
+        "id" : "grescores",
+        "htmlFor" : "gre",
+        "placeholder" : "Gre Scores"
+    },
+    {
+        "id" : "tofel",
+        "htmlFor" : "toefl",
+        "placeholder" : "TOEFL Scores"
+    },
+    {
+        "id" : "university_ranking",
+        "htmlFor" : "university_ranking",
+        "placeholder" : "University Ranking"
+    },
+    {
+        "id" : "sop",
+        "htmlFor" : "sop",
+        "placeholder" : "SOP"
+    },
+    {
+        "id" : "lor",
+        "htmlFor" : "lor",
+        "placeholder" : "LOR"
+    },
+    {
+        "id" : "cgpa",
+        "htmlFor" : "cgpa",
+        "placeholder" : "CGPA"
+    },
+    {
+        "id" : "research",
+        "htmlFor" : "research",
+        "placeholder" : "Research"
+    }
+    
+]

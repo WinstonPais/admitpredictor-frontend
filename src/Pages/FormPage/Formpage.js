@@ -50,33 +50,23 @@ const Formpage = () => {
         document.body.style.backgroundColor = "#25274D";
     });
     const classes = useStyles();
+
+    const inputFields = require('./inputFieldsData.json');
     return(
         <>
             <Navbar/>
             <Grid className={classes.grid} justify="center" alignItems="center" >
                 <FormGroup>
-                    <FormControl className={classes.formcontrol}>
-                        <OutlinedInput className={classes.input} id="grescores" htmlFor="gre" placeholder="Gre Scores"></OutlinedInput>
-                    </FormControl>
-                    <FormControl className={classes.formcontrol}>
-                        <OutlinedInput className={classes.input}  id="toefl" htmlFor="toefl" placeholder="TOEFL Scores"></OutlinedInput>
-                    </FormControl>
-                    <FormControl className={classes.formcontrol}>
-                        <OutlinedInput className={classes.input}  id="university_ranking" htmlFor="university_ranking" placeholder="University Ranking"></OutlinedInput>
-                    </FormControl>
-                    <FormControl className={classes.formcontrol}>
-                        <OutlinedInput className={classes.input}  id="sop" htmlFor="sop" placeholder="SOP"></OutlinedInput>
-                    </FormControl>
-                    <FormControl className={classes.formcontrol}>
-                        <OutlinedInput className={classes.input}  id="lor" htmlFor="lor" placeholder="LOR"></OutlinedInput>
-                    </FormControl>
-                    <FormControl className={classes.formcontrol}>
-                        <OutlinedInput className={classes.input}  id="cgpa" htmlFor="cgpa" placeholder="CGPA"></OutlinedInput>
-                    </FormControl>
-                    <FormControl className={classes.formcontrol}>
-                        <OutlinedInput className={classes.input}  id="research" htmlFor="research" placeholder="Research"></OutlinedInput>
-                    </FormControl>
-                    <Button className={classes.button} variant="contained" color="primary" disableElevation>
+                    {
+                        inputFields.map((inputdata) =>{
+                            return (
+                                <FormControl className={classes.formcontrol}>
+                                    <OutlinedInput className={classes.input} key={inputdata.id} {...inputdata}/>
+                                </FormControl>
+                            )
+                        })
+                    }
+                    <Button className={classes.button} variant="contained" color="primary" >
                         Submit
                     </Button>
                 </FormGroup>
