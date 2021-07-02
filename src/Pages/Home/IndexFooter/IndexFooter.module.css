@@ -1,0 +1,28 @@
+.pb_footer {
+    padding: 5em 0; 
+    background-color:#141414;
+    color:white;
+}
+
+.pb_footer .list-unstyled li {
+    margin-bottom: 10px;
+    line-height: 1.5; 
+}
+
+.pb_footer.bg-black {
+    background: #000; 
+}
+.textcenter .heading-border-top:before {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%); 
+}
+  
+.textcenter .heading-border-top.light:before {
+    background: rgba(255, 255, 255, 0.7) !important; 
+}
+
+.marginTop {
+    margin-top: 5em;
+}
