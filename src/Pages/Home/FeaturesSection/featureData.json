@@ -1,0 +1,33 @@
+[
+    {
+        "styleClass" : "ion-ios-bookmarks-outline",
+        "name" : "Minimal Design",
+        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "styleClass" : "ion-ios-speedometer-outline",
+        "name" : "Fast Loading",
+        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "styleClass" : "ion-ios-infinite-outline",
+        "name" : "Unlimited Possibilities",
+        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "styleClass" : "ion-ios-color-filter-outline",
+        "name" : "Component Based Design",
+        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "styleClass" : "ion-ios-wineglass-outline",
+        "name" : "Clean Code",
+        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+        "styleClass" : "ion-ios-paperplane-outline",
+        "name" : "Lightweight",
+        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    }
+
+]
