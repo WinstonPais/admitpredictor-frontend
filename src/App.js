@@ -3,6 +3,7 @@ import Home from './Pages/Home/Home';
 import GradHatLoader from './components/Loader/GradHatLoader';
 import FormPage from './Pages/FormPage/Formpage';
 import Contact from './Pages/Contact/Contact';
+import ResultPage from './Pages/ResultPage/ResultPage';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { createBrowserHistory } from 'history';
 
@@ -17,6 +18,7 @@ class App extends Component {
               <Route exact path="/admitpredictor-frontend" component={() => <GradHatLoader pageComponent={<Home/>}/>} />
               <Route exact path="/admitpredictor-frontend/formpage" component={() => <GradHatLoader pageComponent={<FormPage/>}/>} />
               <Route exact path="/admitpredictor-frontend/contact" component={() => <GradHatLoader pageComponent={<Contact/>}/> } />
+              <Route exact path="/admitpredictor-frontend/resultpage" component={ResultPage} />
             </Switch>
         </Router>
         </>

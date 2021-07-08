@@ -1,0 +1,43 @@
+[
+    {
+        "isStartOfForm" : true,
+        "key" : "FormStart"
+    },
+    {
+        "isStartOfForm" : false,
+        "key" : "FormPage1",
+        "input1Header" : "Enter your GRE score",
+        "input1ID" : "GREScore",
+        "input1placeholder" : "Gre Score",
+        "input2Header" : "Enter your TOEFL score",
+        "input2ID" : "TOEFLScore",
+        "input2placeholder" : "TOEFL Score",
+        "Button1" : "Prev",
+        "Button2" : "Next"
+    },
+    {
+        "isStartOfForm" : false,
+        "key" : "FormPage2",
+        "input1Header" : "Enter your SOP",
+        "input1ID" : "SOP",
+        "input1placeholder" : "SOP Rating",
+        "input2Header" : "Enter your LOR",
+        "input2ID" : "LOR",
+        "input2placeholder" : "LOR Rating",
+        "Button1" : "Prev",
+        "Button2" : "Next"
+        
+    },
+    {
+        "isStartOfForm" : false,
+        "key" : "FormPage3",
+        "input1Header" : "Enter your CGPA",
+        "input1ID" : "CGPA",
+        "input1placeholder" : "CGPA",
+        "input2Header" : "Enter 1 if you have done Research",
+        "input2ID" : "Research",
+        "input2placeholder" : "Research",
+        "Button1" : "Prev",
+        "Button2" : "Submit"
+    }
+]
