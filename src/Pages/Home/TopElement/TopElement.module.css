@@ -1,5 +1,6 @@
 .overflowHidden {
-    overflow: hidden; }
+    overflow: hidden; 
+}
 
 .backgroundColor {
     background: linear-gradient(45deg, #464866 0%, #25274D 100%);
@@ -9,6 +10,11 @@
     height: 95vh;
 }
 
+.testingcss {
+    overflow: hidden !important;
+    position:relative;
+}
+
 .slantAfter:after {
     content: "";
     position: absolute;
@@ -16,10 +22,13 @@
     left: -50px;
     height: 200px;
     width: 130%;
+    
     background-color: #2b2b2b;
     -webkit-transform: rotate(-4deg);
     -ms-transform: rotate(-4deg);
     transform: rotate(-4deg);
     z-index: 10;
 }
+
+
 

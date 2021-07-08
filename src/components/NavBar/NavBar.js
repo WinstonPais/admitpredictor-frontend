@@ -3,7 +3,7 @@ import {
     Navbar,
     Nav
   } from 'react-bootstrap';
-import doggoLogo from './assets/uniDoggo.gif';
+import doggoLogo from './assets/uniDoggo.png';
 import classes from './NavBar.module.css';
 
 const NavBar = () => {

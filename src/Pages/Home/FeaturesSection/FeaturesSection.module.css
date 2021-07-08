@@ -1,5 +1,6 @@
 .sectionStyle {
     background-color:#2b2b2b;
+    overflow: hidden;
     color:#ffffff;
     padding: 10em 0;
 }
@@ -44,6 +45,7 @@
     transform: rotate(-4deg);
     z-index: 10; 
 }
+
 .pb_slantlight.pb_slantreverse:after,
 .pb_slantwhite.pb_slantreverse:after {
     -webkit-transform: rotate(4deg);
@@ -56,6 +58,8 @@
 .pb_slantwhite:after {
   background-color: #141414; 
 }
+
+  
 
 .pb_sm_py_cover.textleft .sub-heading,
 .pb_md_py_cover.textleft .sub-heading,
