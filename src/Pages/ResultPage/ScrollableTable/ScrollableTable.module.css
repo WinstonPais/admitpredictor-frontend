@@ -1,0 +1,9 @@
+.darkTransparentBackground {
+    background :rgba(0,0,0,.12);
+    box-shadow: 0 25px 20px -20px rgb(0 0 0 / 10%), 0 0 15px rgb(0 0 0 / 6%);
+    border-radius: 10px;
+}
+
+.marginsforTable {
+    padding : 15px 20px;
+}

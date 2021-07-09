@@ -1,4 +1,4 @@
-import React ,{ useEffect } from 'react';
+import React, { useEffect } from 'react';
 import Navbar from '../../components/NavBar/NavBar';
 import { Container,Row,Col } from 'react-bootstrap';
 import classes from './Contact.module.css';
