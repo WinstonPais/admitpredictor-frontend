@@ -10,6 +10,6 @@ describe('<TopBeginElement/>', () => {
      
     it('contains a link to FormPage', () => {
         const curEle = shallow(<TopBeginElement/>);
-        expect(curEle.find('Link').props()['to']).toBe('/admitpredictor-frontend/formpage');
+        expect(curEle.find('InnerCarouselComponent'));
     })
 })

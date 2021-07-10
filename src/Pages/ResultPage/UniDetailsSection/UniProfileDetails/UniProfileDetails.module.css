@@ -1,0 +1,31 @@
+.OuterProfileBody {
+    width: 100%;
+    background: linear-gradient(45deg, #29293a 0%, #020203 100%);
+    border-radius: 10px;
+}
+
+.imagesOuterBody {
+    position: relative;
+}
+.coverImgDiv{
+    height: 23vh;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.coverImg{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    height: 100%;
+}
+
+.profileImgDiv {
+    position: absolute;
+    top: 18vh;
+    left: 2vw;
+}
+
+.ProfileImg{
+    width: 80px;
+    height: 80px;
+}
