@@ -1,14 +1,16 @@
 import classes from './GoogleMapsComp.module.css';
 
-const GoogleMapsComp = () => {
+const GoogleMapsComp = (props) => {
+    const uniData = props.getUniDetails();
+    const source = "https://www.google.com/maps/embed/v1/search?key=AIzaSyDwNoCvdev9LYCoC89gBc-ONHhjDXdh0Ik&q=" + uniData["Name"]
     return (
         <iframe
         className={classes.iframeStyle}
-        title="Stanford University"
+        title={uniData["Name"]}
         width="100%"
         height="100%"
-        frameborder="0"
-        src="https://www.google.com/maps/embed/v1/search?key=AIzaSyDwNoCvdev9LYCoC89gBc-ONHhjDXdh0Ik&q=Stanford University" allowfullscreen>
+        frameBorder="0"
+        src = {source} allowFullScreen>
         </iframe>
     )
 }

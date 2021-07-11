@@ -1,0 +1,14 @@
+.backgroundAddD {
+    background-color: rgb(10, 10, 10);
+    border-radius: 10px;
+    margin-top: 5vh;
+}
+
+.backgroundGrey {
+    background-color: rgba(30,30,30,255);
+    border-radius: 10px;
+}
+
+.styl{
+    box-shadow: 10px 10px 8px #272727;
+}

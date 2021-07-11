@@ -6,5 +6,5 @@
 .whitetransparent{
     background-color:rgba(128, 120, 120,0.4);
     border-radius: 10px;
-    box-shadow: 0 25px 20px -20px rgb(0 0 0 / 10%), 0 0 15px rgb(0 0 0 / 6%);
+    box-shadow: 10px 10px 8px #272727;
 }

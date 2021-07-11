@@ -19,7 +19,8 @@
         "StudentsReceivingAid": "74%",
         "MedianEarningsAfter6Years": "$125852",
         "GraduationRate": "98%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "1"
     },
     {
         "Name": "Stanford University",
@@ -41,7 +42,8 @@
         "StudentsReceivingAid": "78%",
         "MedianEarningsAfter6Years": "$98811",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "90%"
+        "EmploymentRateAfter2Years": "90%",
+        "Rank": "2"
     },
     {
         "Name": "Massachusetts Institute of Technology (MIT)",
@@ -63,7 +65,8 @@
         "StudentsReceivingAid": "78%",
         "MedianEarningsAfter6Years": "$148560",
         "GraduationRate": "96%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "3"
     },
     {
         "Name": "University of California, Berkeley (UCB)",
@@ -85,7 +88,8 @@
         "StudentsReceivingAid": "74%",
         "MedianEarningsAfter6Years": "$114794",
         "GraduationRate": "91%",
-        "EmploymentRateAfter2Years": "95%"
+        "EmploymentRateAfter2Years": "95%",
+        "Rank": "4"
     },
     {
         "Name": "University of California, Los Angeles (UCLA)",
@@ -107,7 +111,8 @@
         "StudentsReceivingAid": "65%",
         "MedianEarningsAfter6Years": "$144494",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "5"
     },
     {
         "Name": "Yale University",
@@ -129,7 +134,8 @@
         "StudentsReceivingAid": "74%",
         "MedianEarningsAfter6Years": "$102803",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "90%"
+        "EmploymentRateAfter2Years": "90%",
+        "Rank": "6"
     },
     {
         "Name": "Columbia University",
@@ -151,7 +157,8 @@
         "StudentsReceivingAid": "65%",
         "MedianEarningsAfter6Years": "$92301",
         "GraduationRate": "92%",
-        "EmploymentRateAfter2Years": "87%"
+        "EmploymentRateAfter2Years": "87%",
+        "Rank": "7"
     },
     {
         "Name": "Princeton University",
@@ -173,7 +180,8 @@
         "StudentsReceivingAid": "69%",
         "MedianEarningsAfter6Years": "$148422",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "8"
     },
     {
         "Name": "New York University (NYU)",
@@ -195,7 +203,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$96419",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "9"
     },
     {
         "Name": "University of Pennsylvania",
@@ -217,7 +226,8 @@
         "StudentsReceivingAid": "77%",
         "MedianEarningsAfter6Years": "$138759",
         "GraduationRate": "89%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "10"
     },
     {
         "Name": "University of Chicago",
@@ -239,7 +249,8 @@
         "StudentsReceivingAid": "79%",
         "MedianEarningsAfter6Years": "$97847",
         "GraduationRate": "94%",
-        "EmploymentRateAfter2Years": "88%"
+        "EmploymentRateAfter2Years": "88%",
+        "Rank": "11"
     },
     {
         "Name": "Cornell University",
@@ -261,7 +272,8 @@
         "StudentsReceivingAid": "66%",
         "MedianEarningsAfter6Years": "$104935",
         "GraduationRate": "97%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "12"
     },
     {
         "Name": "Duke University",
@@ -283,7 +295,8 @@
         "StudentsReceivingAid": "70%",
         "MedianEarningsAfter6Years": "$121119",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "13"
     },
     {
         "Name": "Johns Hopkins University",
@@ -305,7 +318,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$96989",
         "GraduationRate": "86%",
-        "EmploymentRateAfter2Years": "92%"
+        "EmploymentRateAfter2Years": "92%",
+        "Rank": "14"
     },
     {
         "Name": "University of Southern California",
@@ -327,7 +341,8 @@
         "StudentsReceivingAid": "63%",
         "MedianEarningsAfter6Years": "$149806",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "15"
     },
     {
         "Name": "Northwestern University",
@@ -349,7 +364,8 @@
         "StudentsReceivingAid": "79%",
         "MedianEarningsAfter6Years": "$132965",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "88%"
+        "EmploymentRateAfter2Years": "88%",
+        "Rank": "16"
     },
     {
         "Name": "Carnegie Mellon University",
@@ -371,7 +387,8 @@
         "StudentsReceivingAid": "70%",
         "MedianEarningsAfter6Years": "$92286",
         "GraduationRate": "92%",
-        "EmploymentRateAfter2Years": "95%"
+        "EmploymentRateAfter2Years": "95%",
+        "Rank": "17"
     },
     {
         "Name": "University of Michigan-Ann Arbor",
@@ -393,7 +410,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$140517",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "85%"
+        "EmploymentRateAfter2Years": "85%",
+        "Rank": "18"
     },
     {
         "Name": "Brown University",
@@ -415,7 +433,8 @@
         "StudentsReceivingAid": "79%",
         "MedianEarningsAfter6Years": "$98629",
         "GraduationRate": "92%",
-        "EmploymentRateAfter2Years": "97%"
+        "EmploymentRateAfter2Years": "97%",
+        "Rank": "19"
     },
     {
         "Name": "Boston University",
@@ -437,7 +456,8 @@
         "StudentsReceivingAid": "70%",
         "MedianEarningsAfter6Years": "$96231",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "98%"
+        "EmploymentRateAfter2Years": "98%",
+        "Rank": "20"
     },
     {
         "Name": "California Institute of Technology (Caltech)",
@@ -459,7 +479,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$91670",
         "GraduationRate": "93%",
-        "EmploymentRateAfter2Years": "98%"
+        "EmploymentRateAfter2Years": "98%",
+        "Rank": "21"
     },
     {
         "Name": "Emory University",
@@ -481,7 +502,8 @@
         "StudentsReceivingAid": "61%",
         "MedianEarningsAfter6Years": "$135684",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "95%"
+        "EmploymentRateAfter2Years": "95%",
+        "Rank": "22"
     },
     {
         "Name": "Rice University",
@@ -503,7 +525,8 @@
         "StudentsReceivingAid": "61%",
         "MedianEarningsAfter6Years": "$99890",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "23"
     },
     {
         "Name": "University of Washington",
@@ -525,7 +548,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$134126",
         "GraduationRate": "94%",
-        "EmploymentRateAfter2Years": "97%"
+        "EmploymentRateAfter2Years": "97%",
+        "Rank": "24"
     },
     {
         "Name": "Washington University in St. Louis",
@@ -547,7 +571,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$129801",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "97%"
+        "EmploymentRateAfter2Years": "97%",
+        "Rank": "25"
     },
     {
         "Name": "Georgetown University",
@@ -569,7 +594,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$144874",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "91%"
+        "EmploymentRateAfter2Years": "91%",
+        "Rank": "26"
     },
     {
         "Name": "University of California, San Diego (UCSD)",
@@ -591,7 +617,8 @@
         "StudentsReceivingAid": "62%",
         "MedianEarningsAfter6Years": "$91824",
         "GraduationRate": "92%",
-        "EmploymentRateAfter2Years": "92%"
+        "EmploymentRateAfter2Years": "92%",
+        "Rank": "27"
     },
     {
         "Name": "Vanderbilt University",
@@ -613,7 +640,8 @@
         "StudentsReceivingAid": "70%",
         "MedianEarningsAfter6Years": "$130719",
         "GraduationRate": "94%",
-        "EmploymentRateAfter2Years": "85%"
+        "EmploymentRateAfter2Years": "85%",
+        "Rank": "28"
     },
     {
         "Name": "University of Texas at Austin",
@@ -635,7 +663,8 @@
         "StudentsReceivingAid": "72%",
         "MedianEarningsAfter6Years": "$105776",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "88%"
+        "EmploymentRateAfter2Years": "88%",
+        "Rank": "29"
     },
     {
         "Name": "University of Illinois at Urbana-Champaign",
@@ -657,7 +686,8 @@
         "StudentsReceivingAid": "77%",
         "MedianEarningsAfter6Years": "$139953",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "92%"
+        "EmploymentRateAfter2Years": "92%",
+        "Rank": "30"
     },
     {
         "Name": "University of Rochester",
@@ -679,7 +709,8 @@
         "StudentsReceivingAid": "78%",
         "MedianEarningsAfter6Years": "$126060",
         "GraduationRate": "91%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "31"
     },
     {
         "Name": "Dartmouth College",
@@ -701,7 +732,8 @@
         "StudentsReceivingAid": "68%",
         "MedianEarningsAfter6Years": "$142473",
         "GraduationRate": "98%",
-        "EmploymentRateAfter2Years": "87%"
+        "EmploymentRateAfter2Years": "87%",
+        "Rank": "32"
     },
     {
         "Name": "University of North Carolina, Chapel Hill",
@@ -723,7 +755,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$101228",
         "GraduationRate": "86%",
-        "EmploymentRateAfter2Years": "92%"
+        "EmploymentRateAfter2Years": "92%",
+        "Rank": "33"
     },
     {
         "Name": "University of California, Davis",
@@ -745,7 +778,8 @@
         "StudentsReceivingAid": "65%",
         "MedianEarningsAfter6Years": "$134021",
         "GraduationRate": "97%",
-        "EmploymentRateAfter2Years": "93%"
+        "EmploymentRateAfter2Years": "93%",
+        "Rank": "34"
     },
     {
         "Name": "University of Florida",
@@ -767,7 +801,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$91579",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "35"
     },
     {
         "Name": "Tufts University",
@@ -789,7 +824,8 @@
         "StudentsReceivingAid": "61%",
         "MedianEarningsAfter6Years": "$104837",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "87%"
+        "EmploymentRateAfter2Years": "87%",
+        "Rank": "36"
     },
     {
         "Name": "University of Illinois at Chicago (UIC)",
@@ -811,7 +847,8 @@
         "StudentsReceivingAid": "73%",
         "MedianEarningsAfter6Years": "$116220",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "98%"
+        "EmploymentRateAfter2Years": "98%",
+        "Rank": "37"
     },
     {
         "Name": "Georgia Institute of Technology",
@@ -833,7 +870,8 @@
         "StudentsReceivingAid": "73%",
         "MedianEarningsAfter6Years": "$99767",
         "GraduationRate": "98%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "38"
     },
     {
         "Name": "Stony Brook University, State University of New York",
@@ -855,7 +893,8 @@
         "StudentsReceivingAid": "66%",
         "MedianEarningsAfter6Years": "$132438",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "97%"
+        "EmploymentRateAfter2Years": "97%",
+        "Rank": "39"
     },
     {
         "Name": "University of Virginia",
@@ -877,7 +916,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$133803",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "85%"
+        "EmploymentRateAfter2Years": "85%",
+        "Rank": "40"
     },
     {
         "Name": "Case Western Reserve University",
@@ -899,7 +939,8 @@
         "StudentsReceivingAid": "62%",
         "MedianEarningsAfter6Years": "$147860",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "41"
     },
     {
         "Name": "Rutgers University\u2013New Brunswick",
@@ -921,7 +962,8 @@
         "StudentsReceivingAid": "68%",
         "MedianEarningsAfter6Years": "$147099",
         "GraduationRate": "96%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "42"
     },
     {
         "Name": "University of California, Santa Barbara (UCSB)",
@@ -943,7 +985,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$106598",
         "GraduationRate": "92%",
-        "EmploymentRateAfter2Years": "87%"
+        "EmploymentRateAfter2Years": "87%",
+        "Rank": "43"
     },
     {
         "Name": "Pennsylvania State University",
@@ -965,7 +1008,8 @@
         "StudentsReceivingAid": "66%",
         "MedianEarningsAfter6Years": "$93450",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "44"
     },
     {
         "Name": "George Washington University",
@@ -987,7 +1031,8 @@
         "StudentsReceivingAid": "75%",
         "MedianEarningsAfter6Years": "$146753",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "90%"
+        "EmploymentRateAfter2Years": "90%",
+        "Rank": "45"
     },
     {
         "Name": "University of California, Irvine",
@@ -1009,7 +1054,8 @@
         "StudentsReceivingAid": "66%",
         "MedianEarningsAfter6Years": "$129169",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "46"
     },
     {
         "Name": "University of Notre Dame",
@@ -1031,7 +1077,8 @@
         "StudentsReceivingAid": "67%",
         "MedianEarningsAfter6Years": "$114364",
         "GraduationRate": "94%",
-        "EmploymentRateAfter2Years": "85%"
+        "EmploymentRateAfter2Years": "85%",
+        "Rank": "47"
     },
     {
         "Name": "University of Miami",
@@ -1053,7 +1100,8 @@
         "StudentsReceivingAid": "73%",
         "MedianEarningsAfter6Years": "$94676",
         "GraduationRate": "89%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "48"
     },
     {
         "Name": "Northeastern University",
@@ -1075,7 +1123,8 @@
         "StudentsReceivingAid": "77%",
         "MedianEarningsAfter6Years": "$141067",
         "GraduationRate": "91%",
-        "EmploymentRateAfter2Years": "93%"
+        "EmploymentRateAfter2Years": "93%",
+        "Rank": "49"
     },
     {
         "Name": "The Ohio State University",
@@ -1097,7 +1146,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$115898",
         "GraduationRate": "93%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "50"
     },
     {
         "Name": "University at Buffalo SUNY",
@@ -1119,7 +1169,8 @@
         "StudentsReceivingAid": "70%",
         "MedianEarningsAfter6Years": "$119029",
         "GraduationRate": "98%",
-        "EmploymentRateAfter2Years": "98%"
+        "EmploymentRateAfter2Years": "98%",
+        "Rank": "51"
     },
     {
         "Name": "University of Maryland, College Park",
@@ -1141,7 +1192,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$123549",
         "GraduationRate": "98%",
-        "EmploymentRateAfter2Years": "95%"
+        "EmploymentRateAfter2Years": "95%",
+        "Rank": "52"
     },
     {
         "Name": "Purdue University",
@@ -1163,7 +1215,8 @@
         "StudentsReceivingAid": "76%",
         "MedianEarningsAfter6Years": "$90137",
         "GraduationRate": "89%",
-        "EmploymentRateAfter2Years": "93%"
+        "EmploymentRateAfter2Years": "93%",
+        "Rank": "53"
     },
     {
         "Name": "University of Minnesota Twin Cities",
@@ -1185,7 +1238,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$125894",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "93%"
+        "EmploymentRateAfter2Years": "93%",
+        "Rank": "54"
     },
     {
         "Name": "Boston College",
@@ -1207,7 +1261,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$133529",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "55"
     },
     {
         "Name": "Michigan State University",
@@ -1229,7 +1284,8 @@
         "StudentsReceivingAid": "75%",
         "MedianEarningsAfter6Years": "$145495",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "95%"
+        "EmploymentRateAfter2Years": "95%",
+        "Rank": "56"
     },
     {
         "Name": "University of Massachusetts Amherst",
@@ -1251,7 +1307,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$126411",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "85%"
+        "EmploymentRateAfter2Years": "85%",
+        "Rank": "57"
     },
     {
         "Name": "University of Wisconsin-Madison",
@@ -1273,7 +1330,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$119954",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "97%"
+        "EmploymentRateAfter2Years": "97%",
+        "Rank": "58"
     },
     {
         "Name": "Syracuse University",
@@ -1295,7 +1353,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$110649",
         "GraduationRate": "93%",
-        "EmploymentRateAfter2Years": "90%"
+        "EmploymentRateAfter2Years": "90%",
+        "Rank": "59"
     },
     {
         "Name": "Lehigh University",
@@ -1317,7 +1376,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$143993",
         "GraduationRate": "96%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "60"
     },
     {
         "Name": "University of Pittsburgh",
@@ -1339,7 +1399,8 @@
         "StudentsReceivingAid": "75%",
         "MedianEarningsAfter6Years": "$132130",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "61"
     },
     {
         "Name": "Arizona State University",
@@ -1361,7 +1422,8 @@
         "StudentsReceivingAid": "65%",
         "MedianEarningsAfter6Years": "$114588",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "85%"
+        "EmploymentRateAfter2Years": "85%",
+        "Rank": "62"
     },
     {
         "Name": "Brandeis University",
@@ -1383,7 +1445,8 @@
         "StudentsReceivingAid": "76%",
         "MedianEarningsAfter6Years": "$119306",
         "GraduationRate": "96%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "63"
     },
     {
         "Name": "Temple University",
@@ -1405,7 +1468,8 @@
         "StudentsReceivingAid": "66%",
         "MedianEarningsAfter6Years": "$121907",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "88%"
+        "EmploymentRateAfter2Years": "88%",
+        "Rank": "64"
     },
     {
         "Name": "Texas A&M University",
@@ -1427,7 +1491,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$118591",
         "GraduationRate": "89%",
-        "EmploymentRateAfter2Years": "92%"
+        "EmploymentRateAfter2Years": "92%",
+        "Rank": "65"
     },
     {
         "Name": "The University of Arizona",
@@ -1449,7 +1514,8 @@
         "StudentsReceivingAid": "72%",
         "MedianEarningsAfter6Years": "$90918",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "66"
     },
     {
         "Name": "University of Houston",
@@ -1471,7 +1537,8 @@
         "StudentsReceivingAid": "61%",
         "MedianEarningsAfter6Years": "$131774",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "91%"
+        "EmploymentRateAfter2Years": "91%",
+        "Rank": "67"
     },
     {
         "Name": "Binghamton University SUNY",
@@ -1493,7 +1560,8 @@
         "StudentsReceivingAid": "65%",
         "MedianEarningsAfter6Years": "$131132",
         "GraduationRate": "90%",
-        "EmploymentRateAfter2Years": "91%"
+        "EmploymentRateAfter2Years": "91%",
+        "Rank": "68"
     },
     {
         "Name": "Drexel University",
@@ -1515,7 +1583,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$139090",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "98%"
+        "EmploymentRateAfter2Years": "98%",
+        "Rank": "69"
     },
     {
         "Name": "North Carolina State University",
@@ -1537,7 +1606,8 @@
         "StudentsReceivingAid": "71%",
         "MedianEarningsAfter6Years": "$134942",
         "GraduationRate": "97%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "70"
     },
     {
         "Name": "Rensselaer Polytechnic Institute",
@@ -1559,7 +1629,8 @@
         "StudentsReceivingAid": "75%",
         "MedianEarningsAfter6Years": "$137482",
         "GraduationRate": "94%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "71"
     },
     {
         "Name": "University of Connecticut",
@@ -1581,7 +1652,8 @@
         "StudentsReceivingAid": "63%",
         "MedianEarningsAfter6Years": "$107894",
         "GraduationRate": "97%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "72"
     },
     {
         "Name": "The University of Georgia",
@@ -1603,7 +1675,8 @@
         "StudentsReceivingAid": "62%",
         "MedianEarningsAfter6Years": "$102964",
         "GraduationRate": "91%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "73"
     },
     {
         "Name": "Virginia Polytechnic Institute and State University",
@@ -1625,7 +1698,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$124233",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "74"
     },
     {
         "Name": "University of New Mexico",
@@ -1647,7 +1721,8 @@
         "StudentsReceivingAid": "63%",
         "MedianEarningsAfter6Years": "$134251",
         "GraduationRate": "91%",
-        "EmploymentRateAfter2Years": "97%"
+        "EmploymentRateAfter2Years": "97%",
+        "Rank": "75"
     },
     {
         "Name": "Indiana University Bloomington",
@@ -1669,7 +1744,8 @@
         "StudentsReceivingAid": "77%",
         "MedianEarningsAfter6Years": "$112371",
         "GraduationRate": "96%",
-        "EmploymentRateAfter2Years": "93%"
+        "EmploymentRateAfter2Years": "93%",
+        "Rank": "76"
     },
     {
         "Name": "Tulane University",
@@ -1691,7 +1767,8 @@
         "StudentsReceivingAid": "72%",
         "MedianEarningsAfter6Years": "$139263",
         "GraduationRate": "98%",
-        "EmploymentRateAfter2Years": "93%"
+        "EmploymentRateAfter2Years": "93%",
+        "Rank": "77"
     },
     {
         "Name": "University of Colorado Boulder",
@@ -1713,7 +1790,8 @@
         "StudentsReceivingAid": "72%",
         "MedianEarningsAfter6Years": "$104897",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "87%"
+        "EmploymentRateAfter2Years": "87%",
+        "Rank": "78"
     },
     {
         "Name": "Florida State University",
@@ -1735,7 +1813,8 @@
         "StudentsReceivingAid": "63%",
         "MedianEarningsAfter6Years": "$106332",
         "GraduationRate": "86%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "79"
     },
     {
         "Name": "University of South Florida",
@@ -1757,7 +1836,8 @@
         "StudentsReceivingAid": "78%",
         "MedianEarningsAfter6Years": "$143463",
         "GraduationRate": "92%",
-        "EmploymentRateAfter2Years": "92%"
+        "EmploymentRateAfter2Years": "92%",
+        "Rank": "80"
     },
     {
         "Name": "Illinois Institute of Technology",
@@ -1779,7 +1859,8 @@
         "StudentsReceivingAid": "60%",
         "MedianEarningsAfter6Years": "$137387",
         "GraduationRate": "86%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "81"
     },
     {
         "Name": "University of California, Riverside",
@@ -1801,7 +1882,8 @@
         "StudentsReceivingAid": "61%",
         "MedianEarningsAfter6Years": "$106195",
         "GraduationRate": "94%",
-        "EmploymentRateAfter2Years": "95%"
+        "EmploymentRateAfter2Years": "95%",
+        "Rank": "82"
     },
     {
         "Name": "University of California, Santa Cruz",
@@ -1823,7 +1905,8 @@
         "StudentsReceivingAid": "61%",
         "MedianEarningsAfter6Years": "$101050",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "86%"
+        "EmploymentRateAfter2Years": "86%",
+        "Rank": "83"
     },
     {
         "Name": "Howard University",
@@ -1845,7 +1928,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$126458",
         "GraduationRate": "86%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "84"
     },
     {
         "Name": "University of Texas Dallas",
@@ -1867,7 +1951,8 @@
         "StudentsReceivingAid": "65%",
         "MedianEarningsAfter6Years": "$97870",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "85"
     },
     {
         "Name": "Wake Forest University",
@@ -1889,7 +1974,8 @@
         "StudentsReceivingAid": "68%",
         "MedianEarningsAfter6Years": "$114377",
         "GraduationRate": "97%",
-        "EmploymentRateAfter2Years": "91%"
+        "EmploymentRateAfter2Years": "91%",
+        "Rank": "86"
     },
     {
         "Name": "University of Maryland, Baltimore County",
@@ -1911,7 +1997,8 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$107152",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "91%"
+        "EmploymentRateAfter2Years": "91%",
+        "Rank": "87"
     },
     {
         "Name": "University of Utah",
@@ -1933,7 +2020,8 @@
         "StudentsReceivingAid": "72%",
         "MedianEarningsAfter6Years": "$136538",
         "GraduationRate": "94%",
-        "EmploymentRateAfter2Years": "90%"
+        "EmploymentRateAfter2Years": "90%",
+        "Rank": "88"
     },
     {
         "Name": "George Mason University",
@@ -1955,7 +2043,8 @@
         "StudentsReceivingAid": "75%",
         "MedianEarningsAfter6Years": "$139134",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "90%"
+        "EmploymentRateAfter2Years": "90%",
+        "Rank": "89"
     },
     {
         "Name": "New Jersey Institute of Technology (NJIT)",
@@ -1977,7 +2066,8 @@
         "StudentsReceivingAid": "73%",
         "MedianEarningsAfter6Years": "$95849",
         "GraduationRate": "88%",
-        "EmploymentRateAfter2Years": "88%"
+        "EmploymentRateAfter2Years": "88%",
+        "Rank": "90"
     },
     {
         "Name": "University of Massachusetts Boston",
@@ -1999,7 +2089,8 @@
         "StudentsReceivingAid": "63%",
         "MedianEarningsAfter6Years": "$103462",
         "GraduationRate": "97%",
-        "EmploymentRateAfter2Years": "88%"
+        "EmploymentRateAfter2Years": "88%",
+        "Rank": "91"
     },
     {
         "Name": "University of Kansas",
@@ -2021,7 +2112,8 @@
         "StudentsReceivingAid": "74%",
         "MedianEarningsAfter6Years": "$114362",
         "GraduationRate": "93%",
-        "EmploymentRateAfter2Years": "94%"
+        "EmploymentRateAfter2Years": "94%",
+        "Rank": "92"
     },
     {
         "Name": "University at Albany SUNY",
@@ -2043,7 +2135,8 @@
         "StudentsReceivingAid": "63%",
         "MedianEarningsAfter6Years": "$115426",
         "GraduationRate": "86%",
-        "EmploymentRateAfter2Years": "89%"
+        "EmploymentRateAfter2Years": "89%",
+        "Rank": "93"
     },
     {
         "Name": "Oregon State University",
@@ -2065,7 +2158,8 @@
         "StudentsReceivingAid": "74%",
         "MedianEarningsAfter6Years": "$94575",
         "GraduationRate": "87%",
-        "EmploymentRateAfter2Years": "87%"
+        "EmploymentRateAfter2Years": "87%",
+        "Rank": "94"
     },
     {
         "Name": "University of Delaware",
@@ -2087,7 +2181,8 @@
         "StudentsReceivingAid": "61%",
         "MedianEarningsAfter6Years": "$139717",
         "GraduationRate": "96%",
-        "EmploymentRateAfter2Years": "85%"
+        "EmploymentRateAfter2Years": "85%",
+        "Rank": "95"
     },
     {
         "Name": "University of the Pacific",
@@ -2109,7 +2204,8 @@
         "StudentsReceivingAid": "78%",
         "MedianEarningsAfter6Years": "$118667",
         "GraduationRate": "92%",
-        "EmploymentRateAfter2Years": "88%"
+        "EmploymentRateAfter2Years": "88%",
+        "Rank": "96"
     },
     {
         "Name": "Rutgers University\u2013Newark",
@@ -2131,7 +2227,8 @@
         "StudentsReceivingAid": "78%",
         "MedianEarningsAfter6Years": "$97815",
         "GraduationRate": "95%",
-        "EmploymentRateAfter2Years": "96%"
+        "EmploymentRateAfter2Years": "96%",
+        "Rank": "97"
     },
     {
         "Name": "University of Hawai\u02bbi at M\u0101noa",
@@ -2153,7 +2250,8 @@
         "StudentsReceivingAid": "73%",
         "MedianEarningsAfter6Years": "$133627",
         "GraduationRate": "85%",
-        "EmploymentRateAfter2Years": "91%"
+        "EmploymentRateAfter2Years": "91%",
+        "Rank": "98"
     },
     {
         "Name": "San Diego State University",
@@ -2175,6 +2273,7 @@
         "StudentsReceivingAid": "64%",
         "MedianEarningsAfter6Years": "$100874",
         "GraduationRate": "86%",
-        "EmploymentRateAfter2Years": "87%"
+        "EmploymentRateAfter2Years": "87%",
+        "Rank": "99"
     }
 ]

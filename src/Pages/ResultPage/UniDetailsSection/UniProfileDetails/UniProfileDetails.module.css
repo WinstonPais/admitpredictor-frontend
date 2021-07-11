@@ -2,6 +2,7 @@
     width: 100%;
     background: linear-gradient(45deg, #29293a 0%, #020203 100%);
     border-radius: 10px;
+    box-shadow: 10px 10px 8px #272727;
 }
 
 .imagesOuterBody {
@@ -28,4 +29,66 @@
 .ProfileImg{
     width: 80px;
     height: 80px;
+}
+
+.whiteText{
+    color: rgb(224, 224, 224);
+}
+
+.marginTopDetails {
+    margin-top: 50px;
+}
+
+.greyText{
+    color: #9a9a9c;
+}
+
+.marginBottom{
+    margin-bottom: 0;
+}
+
+.DetailsRow{
+    display: inline-block;
+}
+
+.ulStyle{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+
+.liStyle {
+    list-style-type: none;
+    display: inline-block;
+    border-right: 1px solid #e4e3e5;
+    padding: 0 20px;
+    line-height: 20px;
+}
+
+.ratingCircle{
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    background: green;
+    position: absolute;
+    top:27vh;
+    right: 3vw;
+    vertical-align: middle;
+}
+
+.ratingInnerCircle{
+    border-radius: 50%;
+    height: 56px;
+    width: 56px;
+    background: black;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 2px;
+    margin-left: 2px;
+    line-height: 56px;
+    color: rgb(230, 230, 230);
 }
