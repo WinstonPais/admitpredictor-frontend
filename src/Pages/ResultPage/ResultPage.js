@@ -11,6 +11,7 @@ const ResultPage = () => {
 
     const [isMoreDetailsDisplayed, setIsMoreDetailsDisplayed] = useState(false);
     const [uniDetails, setUniDetails] = useState({});
+    const [responseData, setResponseData] = useState({"success":false});
 
     useEffect(() => {
         document.body.style.background = "linear-gradient(45deg, #464866 , #25274D )";
@@ -28,12 +29,20 @@ const ResultPage = () => {
     }
 
     const location = useLocation()
-    const resultData = location.state
-    console.log(resultData)
+    useEffect(() => {
+        
+        const resultData = location.state
+        setResponseData(resultData)
+        console.log(resultData)
+    },[location.state]);
+    
     return (
         <>
             <Navbar/>
-            <ResultInputParametesSection/>
+            {
+                responseData["success"] ? <ResultInputParametesSection responseData={responseData}/> : null
+            }
+            
             <ScrollableTable 
                 bottomDetailsDisplayHandler = {showBottomSecction}
                 

@@ -1,6 +1,6 @@
 import classes from './ResultInputParametesSection.module.css'
 
-const ResultInputParametesSection = () => {
+const ResultInputParametesSection = (props) => {
     return (
         <div className={["container", classes.marginTop].join(' ')}>
             <div className={classes.whitetransparent}>
@@ -12,19 +12,19 @@ const ResultInputParametesSection = () => {
                        <div className="col">
                            <div>
                                <p style={{color:"white",marginLeft:"10px"}}>Gre Score</p>
-                               <input type="text" placeholder="GreScore" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
+                               <input readOnly type="text" value={props.responseData["inputParameters"]["GREScore"]} placeholder="GreScore" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
                            </div>
                        </div>
                        <div className="col">
                             <div>
                                <p style={{color:"white",marginLeft:"10px"}}>Sop</p>
-                               <input type="text" placeholder="Sop" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
+                               <input readOnly type="text" value={props.responseData["inputParameters"]["SOP"]} placeholder="Sop" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
                            </div>
                        </div>
                        <div className="col">
                             <div>
                                 <p style={{color:"white",marginLeft:"10px"}}>CGPA</p>
-                                <input type="text" placeholder="CGPA" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
+                                <input readOnly type="text" value={props.responseData["inputParameters"]["CGPA"]} placeholder="CGPA" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
                             </div>
                        </div>
                    </div>
@@ -32,19 +32,19 @@ const ResultInputParametesSection = () => {
                        <div className="col">
                            <div style={{marginBottom:"30px"}}>
                                <p style={{color:"white",marginLeft:"10px"}}>Toefl Score</p>
-                               <input type="text" placeholder="Toefl Score" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
+                               <input readOnly type="text" value={props.responseData["inputParameters"]["TOEFLScore"]} placeholder="Toefl Score" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
                            </div>
                        </div>
                        <div className="col">
                             <div style={{marginBottom:"30px"}}>
                                <p style={{color:"white",marginLeft:"10px"}}>Lor</p>
-                               <input type="text" placeholder="LOR" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
+                               <input readOnly type="text" value={props.responseData["inputParameters"]["LOR"]} placeholder="LOR" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
                            </div>
                        </div>
                        <div className="col">
                             <div style={{marginBottom:"30px"}}>
                                 <p style={{color:"white",marginLeft:"10px"}}>Research</p>
-                                <input type="text" placeholder="Research" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
+                                <input readOnly type="text" value={props.responseData["inputParameters"]["Research"]} placeholder="Research" style={{borderRadius:"999px",height:"7vh",width:"25vh",padding: "0 10px"}} />
                             </div>
                        </div>
                    </div>
