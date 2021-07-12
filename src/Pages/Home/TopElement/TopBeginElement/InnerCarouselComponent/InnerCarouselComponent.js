@@ -50,15 +50,25 @@ const InnerCarouselComponent = (props) => {
                 </div>
                 <p htmlFor={props.input2ID}>{props.input2Header}</p>
                 <div className="form-group">
-                    <input 
-                        type="text" 
-                        onChange={(e) => {props.stateHandler(props.input2ID, e.target.value)}} 
-                        className="form-control pb_height-50 reverse" id={props.input2ID} 
-                        defaultValue={stateVars[props.input2ID]} 
-                        name={props.input2ID} 
-                        placeholder={props.input2placeholder} 
-                        required
-                    />
+                    {
+                        props.isForm3 !== "true"
+                        ?
+                            <input 
+                            type="text" 
+                            onChange={(e) => {props.stateHandler(props.input2ID, e.target.value)}} 
+                            className="form-control pb_height-50 reverse" id={props.input2ID} 
+                            defaultValue={stateVars[props.input2ID]} 
+                            name={props.input2ID} 
+                            placeholder={props.input2placeholder} 
+                            required
+                            />
+                        :
+                            <select className="form-control" onChange={(e) => {props.stateHandler(props.input2ID, e.target.value)}}  style={{width:"100%",height:"50px",padding:"0 10px"}}>
+                                <option disabled="disabled" selected="selected">Select an option</option>
+                                <option value="1">Yes</option>
+                                <option value="0">No</option>
+                            </select>
+                    }
                 </div>
                 <div className={[classes.mar4, 'row'].join(' ')}>
                     <div className="col-md-6">
