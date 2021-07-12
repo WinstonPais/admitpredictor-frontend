@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/admitpredictor-frontend/static/css/main.a88ef945.chunk.css",
-    "main.js": "/admitpredictor-frontend/static/js/main.6cda8cff.chunk.js",
-    "main.js.map": "/admitpredictor-frontend/static/js/main.6cda8cff.chunk.js.map",
-    "runtime-main.js": "/admitpredictor-frontend/static/js/runtime-main.1cb2dcb5.js",
-    "runtime-main.js.map": "/admitpredictor-frontend/static/js/runtime-main.1cb2dcb5.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/admitpredictor-frontend/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.bc58229a.chunk.js": "/admitpredictor-frontend/static/js/2.bc58229a.chunk.js",
-    "static/js/2.bc58229a.chunk.js.map": "/admitpredictor-frontend/static/js/2.bc58229a.chunk.js.map",
-    "static/js/3.bae2a5a2.chunk.js": "/admitpredictor-frontend/static/js/3.bae2a5a2.chunk.js",
-    "static/js/3.bae2a5a2.chunk.js.map": "/admitpredictor-frontend/static/js/3.bae2a5a2.chunk.js.map",
+    "main.css": "/admitpredictor-frontend/static/css/main.9297351f.chunk.css",
+    "main.js": "/admitpredictor-frontend/static/js/main.23411af1.chunk.js",
+    "main.js.map": "/admitpredictor-frontend/static/js/main.23411af1.chunk.js.map",
+    "runtime-main.js": "/admitpredictor-frontend/static/js/runtime-main.a43c2ae0.js",
+    "runtime-main.js.map": "/admitpredictor-frontend/static/js/runtime-main.a43c2ae0.js.map",
+    "static/css/2.081f420c.chunk.css": "/admitpredictor-frontend/static/css/2.081f420c.chunk.css",
+    "static/js/2.76bae880.chunk.js": "/admitpredictor-frontend/static/js/2.76bae880.chunk.js",
+    "static/js/2.76bae880.chunk.js.map": "/admitpredictor-frontend/static/js/2.76bae880.chunk.js.map",
+    "static/js/3.ede91214.chunk.js": "/admitpredictor-frontend/static/js/3.ede91214.chunk.js",
+    "static/js/3.ede91214.chunk.js.map": "/admitpredictor-frontend/static/js/3.ede91214.chunk.js.map",
     "index.html": "/admitpredictor-frontend/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/admitpredictor-frontend/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.a88ef945.chunk.css.map": "/admitpredictor-frontend/static/css/main.a88ef945.chunk.css.map",
-    "static/js/2.bc58229a.chunk.js.LICENSE.txt": "/admitpredictor-frontend/static/js/2.bc58229a.chunk.js.LICENSE.txt",
+    "static/css/2.081f420c.chunk.css.map": "/admitpredictor-frontend/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.9297351f.chunk.css.map": "/admitpredictor-frontend/static/css/main.9297351f.chunk.css.map",
+    "static/js/2.76bae880.chunk.js.LICENSE.txt": "/admitpredictor-frontend/static/js/2.76bae880.chunk.js.LICENSE.txt",
     "static/media/github.bd8bb4d8.png": "/admitpredictor-frontend/static/media/github.bd8bb4d8.png",
     "static/media/gradhat.2d42ae7f.svg": "/admitpredictor-frontend/static/media/gradhat.2d42ae7f.svg",
     "static/media/mail.be8d5c95.png": "/admitpredictor-frontend/static/media/mail.be8d5c95.png",
-    "static/media/uniDoggo.c7714fea.gif": "/admitpredictor-frontend/static/media/uniDoggo.c7714fea.gif"
+    "static/media/uniDoggo.c7714fea.gif": "/admitpredictor-frontend/static/media/uniDoggo.c7714fea.gif",
+    "static/media/uniDoggo.f100cb08.png": "/admitpredictor-frontend/static/media/uniDoggo.f100cb08.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cb2dcb5.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.bc58229a.chunk.js",
-    "static/css/main.a88ef945.chunk.css",
-    "static/js/main.6cda8cff.chunk.js"
+    "static/js/runtime-main.a43c2ae0.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.76bae880.chunk.js",
+    "static/css/main.9297351f.chunk.css",
+    "static/js/main.23411af1.chunk.js"
   ]
 }
