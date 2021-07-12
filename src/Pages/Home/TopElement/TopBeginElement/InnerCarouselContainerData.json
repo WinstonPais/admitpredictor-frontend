@@ -31,10 +31,11 @@
     {
         "isStartOfForm" : false,
         "key" : "FormPage3",
+        "isForm3": "true",
         "input1Header" : "Enter your CGPA",
         "input1ID" : "CGPA",
         "input1placeholder" : "CGPA",
-        "input2Header" : "Enter 1 if you have done Research",
+        "input2Header" : "Select Yes if you have done Research",
         "input2ID" : "Research",
         "input2placeholder" : "Research",
         "Button1" : "Prev",
