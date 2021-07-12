@@ -19,9 +19,7 @@ describe('Index.js', () => {
         // Asserts render was called with <App />
         // and HTML element with id = root
         expect(ReactDOM.render).toHaveBeenCalledWith(
-            <React.StrictMode>
-                <App />
-            </React.StrictMode>, 
+            <App />, 
             root
         )
     })

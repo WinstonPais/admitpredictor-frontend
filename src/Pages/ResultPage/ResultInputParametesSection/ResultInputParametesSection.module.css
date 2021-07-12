@@ -1,0 +1,10 @@
+.marginTop {
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+}
+
+.whitetransparent{
+    background-color:rgba(128, 120, 120,0.4);
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #272727;
+}

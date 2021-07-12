@@ -1,0 +1,17 @@
+.transparentBG{
+    background-color: transparent !important;
+    border-radius: 10px;
+}
+
+.nobottomBorder {
+    border-bottom: 0 !important;
+}
+
+.headerStyle{
+    color: rgb(231, 231, 231) !important;
+    background-color: rgb(14, 13, 13) !important;
+}
+
+.textColorWhite {
+    color: rgb(231, 231, 231) !important;
+}
