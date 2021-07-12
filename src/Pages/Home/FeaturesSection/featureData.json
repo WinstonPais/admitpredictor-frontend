@@ -2,12 +2,12 @@
     {
         "styleClass" : "ion-ios-bookmarks-outline",
         "name" : "Minimal Design",
-        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        "description" : "Minimalism, the art of less, is a popular modern design approach. Minimalism is a design style that emphasizes simplicity and the removal of superfluous elements in a design."
     },
     {
         "styleClass" : "ion-ios-speedometer-outline",
         "name" : "Fast Loading",
-        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        "description" : "Website page speed needs to be as fast as you can make it without compromising the customer experience."
     },
     {
         "styleClass" : "ion-ios-infinite-outline",
@@ -17,17 +17,17 @@
     {
         "styleClass" : "ion-ios-color-filter-outline",
         "name" : "Component Based Design",
-        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        "description" : "The concept of component-based design envisions building websites out of ready-made elements (components), which are designed and programmed segments to be used as building blocks for your website. What is more, thanks to their modular nature, they can be easily reused on all subpages."
     },
     {
         "styleClass" : "ion-ios-wineglass-outline",
         "name" : "Clean Code",
-        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        "description" : "The website is built using React and hence has a component based esign which ensures clean looking code which is easier to debug and increases load time."
     },
     {
         "styleClass" : "ion-ios-paperplane-outline",
         "name" : "Lightweight",
-        "description" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+        "description" : "Light weight website which makes website faster and more responsive"
     }
 
 ]

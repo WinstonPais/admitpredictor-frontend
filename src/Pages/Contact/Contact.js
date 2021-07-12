@@ -1,4 +1,4 @@
-import React ,{ useEffect } from 'react';
+import React, { useEffect } from 'react';
 import Navbar from '../../components/NavBar/NavBar';
 import { Container,Row,Col } from 'react-bootstrap';
 import classes from './Contact.module.css';
@@ -12,7 +12,10 @@ const Contact = () =>{
     return (
         <>  
             <Navbar/>
-            <Container className={classes.mycont}>
+            <Container className={classes.mycont}>    
+            <div style={{textAlign:"center",color:"white", marginBottom:"20px"}}>
+                <h2>Contact Us</h2>
+            </div>
             <Row className={classes.myRow}>
                 <Col className={classes.myCol1}>
                     <div>
@@ -27,7 +30,6 @@ const Contact = () =>{
                 <Col className={classes.myCol2}>
                     <div className={classes.center1}>
                         <div>
-                            <h1 className={classes.text1}>Contact Us</h1>
                             <div className={classes.center2}>
                                 <img alt="mail_Image" className={classes.imag} src={mail} />
                             </div>

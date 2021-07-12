@@ -4,5 +4,6 @@
 
 .navbar{
     background :linear-gradient(45deg, #464866 0%, #25274D 100%);
+    /* position: relative !important; */
 }
 

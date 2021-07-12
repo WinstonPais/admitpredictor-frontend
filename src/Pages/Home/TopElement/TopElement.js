@@ -4,7 +4,7 @@ import TopLeftDoggo from './TopLeftDoggo/TopLeftDoggo';
 
 const TopElement = () => {
     return (
-        <section className={[classes.backgroundColor, classes.slantAfter].join(' ')}>
+        <section className={[classes.testingcss, classes.backgroundColor, classes.slantAfter].join(' ')}>
             <div className={[classes.overflowHidden, 'container'].join(' ')}>
                 <div className={["row align-items-center justify-content-center", classes.rowHeight].join(' ')}>
                     <div className="col-md-6">
