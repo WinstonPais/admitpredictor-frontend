@@ -5,6 +5,7 @@ import ResultInputParametesSection from './ResultInputParametesSection/ResultInp
 import ScrollableTable from './ScrollableTable/ScrollableTable';
 import UniDetailsSection from './UniDetailsSection/UniDetailsSection';
 import AdditionalDetails from './AdditionalDetails/AdditionalDetails';
+import classes from './../ResultPage/ResultPage.module.css';
 import { useState } from 'react';
 
 const ResultPage = () => {
