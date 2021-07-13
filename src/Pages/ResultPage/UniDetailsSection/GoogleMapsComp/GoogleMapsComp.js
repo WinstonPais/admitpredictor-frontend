@@ -2,7 +2,7 @@ import classes from './GoogleMapsComp.module.css';
 
 const GoogleMapsComp = (props) => {
     const uniData = props.getUniDetails();
-    const source = "https://www.google.com/maps/embed/v1/search?key=AIzaSyDwNoCvdev9LYCoC89gBc-ONHhjDXdh0Ik&q=" + uniData["Name"]
+    const source = "//www.google.com/maps/embed/v1/search?key=AIzaSyDwNoCvdev9LYCoC89gBc-ONHhjDXdh0Ik&q=" + uniData["Name"]
     return (
         <iframe
         className={classes.iframeStyle}
