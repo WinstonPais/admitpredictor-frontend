@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/admitpredictor-frontend/static/css/main.92f9247b.chunk.css",
-    "main.js": "/admitpredictor-frontend/static/js/main.de2f7411.chunk.js",
-    "main.js.map": "/admitpredictor-frontend/static/js/main.de2f7411.chunk.js.map",
+    "main.js": "/admitpredictor-frontend/static/js/main.81bd9516.chunk.js",
+    "main.js.map": "/admitpredictor-frontend/static/js/main.81bd9516.chunk.js.map",
     "runtime-main.js": "/admitpredictor-frontend/static/js/runtime-main.90dba027.js",
     "runtime-main.js.map": "/admitpredictor-frontend/static/js/runtime-main.90dba027.js.map",
     "static/css/2.081f420c.chunk.css": "/admitpredictor-frontend/static/css/2.081f420c.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.081f420c.chunk.css",
     "static/js/2.e6c4d553.chunk.js",
     "static/css/main.92f9247b.chunk.css",
-    "static/js/main.de2f7411.chunk.js"
+    "static/js/main.81bd9516.chunk.js"
   ]
 }
