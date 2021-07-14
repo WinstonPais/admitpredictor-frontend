@@ -19,7 +19,7 @@ const NavBar = () => {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto">
           <Nav.Link className="mr-5" href="/admitpredictor-frontend"><h4>Home</h4></Nav.Link>
-          <Nav.Link className="mr-5" href="/admitpredictor-frontend/formpage"><h4>Predict</h4></Nav.Link>
+          <Nav.Link className="mr-5" href="/admitpredictor-frontend/helpertools"><h4>Barney</h4></Nav.Link>
           <Nav.Link className="mr-5" href="/admitpredictor-frontend/contact"><h4>Contact</h4></Nav.Link>
         </Nav>
         </Navbar.Collapse>

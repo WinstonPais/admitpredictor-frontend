@@ -11,8 +11,14 @@ const HelperToolsPage = () => {
     });
     return (
         <div>
+            <Navbar/>
+            <div style={{backgroundColor:"#272727"}}>
+                <div>
+                    <h1 style={{color:"white",marginTop:"6%",paddingTop:"1%",paddingBottom:"1%",paddingLeft:"9%"}}>Barney</h1>
+                    <p style={{color:"white",paddingBottom:"2%",paddingLeft:"9%"}}>Your University finding Wingman</p>
+                    </div>
+            </div>
             <div className="container">
-                <Navbar/>
                 <div style={{}}>
                     <CompareHead2Head uniData={uniData}/>
                 </div>
