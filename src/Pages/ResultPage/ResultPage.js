@@ -34,7 +34,7 @@ const ResultPage = () => {
         
         const resultData = location.state
         setResponseData(resultData)
-        console.log(resultData)
+        console.log({resultData})
     },[location.state]);
     
     return (
@@ -43,11 +43,13 @@ const ResultPage = () => {
             {
                 responseData["success"] ? <ResultInputParametesSection responseData={responseData}/> : null
             }
+            {
+                responseData["success"] ? <ScrollableTable 
+                        bottomDetailsDisplayHandler = {showBottomSecction}
+                        responseData={responseData}
+                    /> :null
+            }
             
-            <ScrollableTable 
-                bottomDetailsDisplayHandler = {showBottomSecction}
-                
-            />
             {
                 isMoreDetailsDisplayed ?
                 <>

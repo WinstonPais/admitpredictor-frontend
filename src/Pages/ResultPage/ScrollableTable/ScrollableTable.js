@@ -9,6 +9,7 @@ const ScrollableTable = (props) => {
                     <StickyHeadTable 
                         bottomDetailsDisplayHandler = {props.bottomDetailsDisplayHandler} 
                         className={classes.roundedCorners}
+                        responseData={props.responseData}
                     />
                 </div>
             </div>
