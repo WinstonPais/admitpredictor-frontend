@@ -30,7 +30,7 @@ const USAMapComp = () => {
             });
             option = {
                 title: {
-                    text: 'USA Population Estimates (2012)',
+                    text: 'Living Expenses',
                     left: 'right'
                 },
                 tooltip: {

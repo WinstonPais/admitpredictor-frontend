@@ -55,9 +55,9 @@ const CompareHead2Head = () => {
                             const uni1Obj = getUniObj(Uni1);
                             const uni2Obj = getUniObj(Uni2);
                             return (<div key={parameter} style={{marginBottom:'5px'}} className="row">
-                            <div key={parameter+1} style={{textAlign:'center', backgroundColor:'red', color:'white'}} className="col-md-4">{uni1Obj[parameter]}</div>
+                            <div key={parameter+1} style={{textAlign:'center', backgroundColor:'red', color:'white', borderRadius:'10px'}} className="col-md-4">{uni1Obj[parameter]}</div>
                             <div key={parameter+2} style={{textAlign:'center',color:'white'}} className="col-md-4">{parameter}</div>
-                            <div key={parameter+3} style={{textAlign:'center', backgroundColor:'green', color:'black'}} className="col-md-4">{uni2Obj[parameter]}</div>
+                            <div key={parameter+3} style={{textAlign:'center', backgroundColor:'green', color:'black', borderRadius:'10px'}} className="col-md-4">{uni2Obj[parameter]}</div>
                             </div>)
                         })
                     }

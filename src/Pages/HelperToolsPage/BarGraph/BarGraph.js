@@ -35,7 +35,7 @@ const Radar = (props) => {
 
     return (
         <div style={{marginBottom:'35vh'}}>
-        <select className={["form-control", classes.darkmodeDropdown].join(' ')} onChange={(e) => {
+        <select style={{marginBottom:'5vh'}} className={["form-control", classes.darkmodeDropdown].join(' ')} onChange={(e) => {
             // debugger;
             props.setBarGDropDownValue(e.target.value);
             props.callBarGraphSet(e.target.value);
