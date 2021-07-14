@@ -75,16 +75,16 @@ const StickyHeadTable = (props) => {
   const classes = useStyles();
   const [page, setPage] = React.useState(0);
   const [rowsPerPage, setRowsPerPage] = React.useState(10);
-
+  console.log(props.responseData)
   const getAllRowsData = () => {
     return allUniData.map((uniData, index)=>{
       return { 
         'ranking' : index + 1,
-        'logo' : <TableUniLogo key={uniData["Name"]} name={uniData["Name"]} url={uniData["ImageURL"]} />,
+        'logo' : <TableUniLogo key={uniData["Name"]+"TLOGO"} name={uniData["Name"]} url={uniData["ImageURL"]} />,
         'uniName' : uniData["Name"],
-        'prediction' : "100%",
+        'prediction' : props.responseData["chanceOfAdmit"][98-index],
         'viewmore' : <Button 
-                        key = {uniData["Name"]}
+                        key = {uniData["Name"]+"B"}
                         onClick={(e) => {props.bottomDetailsDisplayHandler(index)}} 
                         style={{borderRadius:"999999px"}}
                       >

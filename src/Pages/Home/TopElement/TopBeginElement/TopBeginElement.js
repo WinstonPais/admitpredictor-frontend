@@ -47,11 +47,12 @@ const TopBeginElement = () => {
     const getPredictionResults = async () => {
         const parmeters = getParams();
         let result = null;
-        const prom = await axios.get('https://bhqqqb8355.execute-api.ap-south-1.amazonaws.com/dev/tensorflow_neuralNetworks/', { params: {...parmeters}})
-        // const prom = await axios.get('http://127.0.0.1:8000/tensorflow_neuralNetworks/', { params: {...parmeters}})
+        // const prom = await axios.get('https://bhqqqb8355.execute-api.ap-south-1.amazonaws.com/dev/tensorflow_neuralNetworks/', { params: {...parmeters}})
+        const prom = await axios.get('http://127.0.0.1:8000/tensorflow_neuralNetworks/', { params: {...parmeters}})
         // ?GREScore=337&TOEFLScore=118&UniversityRating=4&SOP=4.5&LOR=4.5&CGPA=9.65&Research=1'
         .then((res) => {
             result = res.data;
+            console.log(res.data)
         })
         .catch((err) => {
             console.error(err);
